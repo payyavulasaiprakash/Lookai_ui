@@ -25,7 +25,7 @@
       <div class="flex items-start gap-2 px-2 py-4">
         {#if message.from_LookAI}
           <img
-            src="/assets/user-avatar.svg"
+            src="/assets/lookai-avatar.svg"
             alt="LookAI's Avatar"
             class="flex-shrink-0 rounded-full avatar"
             style="width: 28px; height: 28px;"
